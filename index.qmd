@@ -2,7 +2,8 @@
 title: "quarto_workshop"
 ---
 
-[![DOI](https://zenodo.org/badge/690008347.svg)](https://zenodo.org/badge/latestdoi/690008347)
+<a href="https://zenodo.org/badge/latestdoi/690008347" target=”_blank”><img src="https://zenodo.org/badge/690008347.svg" alt="DOI">
+</a>
 
 In this project we aim to visualize the trends of the most frequently used babynames from 1880 to 2017 in the United States. We do this by:
 
