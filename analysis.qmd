@@ -77,6 +77,7 @@ get_most_frequent(babynames, select_sex = "M") |>
 @fig-line-boys shows that names that were popular before 1990 are relatively infrequent after 2000.
 
 ```{r}
+#| warning: false
 #| label: fig-line-2010
 #| layout: [[50,50], [100]]
 #| fig-cap: "Most popular girl names from 2010 onwards"
